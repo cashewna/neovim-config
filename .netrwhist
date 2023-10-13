@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/import/cage/6/z5491935/bin'
+let g:netrw_dirhist_8='/import/cage/6/z5491935/.cache'
+let g:netrw_dirhist_7='/import/cage/6/z5491935'
+let g:netrw_dirhist_6='/import/cage/6/z5491935/bin'
+let g:netrw_dirhist_5='/import/cage/6/z5491935/.config/nvim'
+let g:netrw_dirhist_4='/import/cage/6/z5491935/.config/nvim/lua/krish'
+let g:netrw_dirhist_3='/import/cage/6/z5491935/.config/nvim/lua'
+let g:netrw_dirhist_2='/import/cage/6/z5491935/.config/nvim'
+let g:netrw_dirhist_1='/import/cage/6/z5491935/.config/nvim/lua/krish'
+let g:netrw_dirhist_0='/import/cage/6/z5491935/.config/nvim/lua'
