@@ -69,6 +69,7 @@ return {
         ensure_installed = {
           "rust_analyzer",
           "clangd",
+          "texlab",
         },
         handlers = {
           lsp_zero.default_setup,
