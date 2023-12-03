@@ -70,6 +70,7 @@ return {
           "rust_analyzer",
           "clangd",
           "texlab",
+          "emmet_ls",
         },
         handlers = {
           lsp_zero.default_setup,
