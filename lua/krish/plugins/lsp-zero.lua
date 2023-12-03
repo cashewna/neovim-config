@@ -71,6 +71,7 @@ return {
           "clangd",
           "texlab",
           "emmet_ls",
+          "tsserver"
         },
         handlers = {
           lsp_zero.default_setup,

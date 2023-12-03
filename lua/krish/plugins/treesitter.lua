@@ -12,6 +12,7 @@ return {
 				"query",
 				"rust",
 				"html",
+                "javascript",
 				"css",
 				"dockerfile",
 				"gitignore",
