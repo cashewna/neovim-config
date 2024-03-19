@@ -5,7 +5,7 @@ opt.number = true
 
 -- Tabs & indentation
 opt.tabstop = 8
-opt.shiftwidth = 8
+opt.shiftwidth = 2
 opt.autoindent = true
 opt.softtabstop = 2
 
