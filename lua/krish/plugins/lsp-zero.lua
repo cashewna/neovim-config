@@ -71,7 +71,8 @@ return {
           "clangd",
           "texlab",
           "emmet_ls",
-          "tsserver"
+          "ts_ls",
+	  "pyright"
         },
         handlers = {
           lsp_zero.default_setup,
@@ -82,6 +83,6 @@ return {
           end,
         }
       })
-    end
+    end, enabled = false
   }
 }

@@ -5,10 +5,10 @@ opt.number = true
 
 -- Tabs & indentation
 opt.tabstop = 8
-opt.shiftwidth = 2
+opt.shiftwidth = 4
 opt.autoindent = true
-opt.softtabstop = 2
-
+opt.softtabstop = 4
+opt.expandtab = true
 opt.colorcolumn = "80"
 
 vim.g.clipboard = {
